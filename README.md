@@ -2,8 +2,6 @@
 
 [Public Website](https://justind85.github.io/number_guesser_doubles/)
 
-# Static Comp Challenge 1
-
 ### Assignment
 Mod 1 - Number Guesser Doubles
 
